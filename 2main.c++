@@ -10,5 +10,5 @@ int main(){
     int lista_edades[] = {18,9,21,25};
     cout <<lista_edades[0] << endl;
     cout << edad-80 << endl;
-    cout << letra;
+
 }
