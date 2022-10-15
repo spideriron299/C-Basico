@@ -1,3 +1,4 @@
+//Calucladora simple
 #include <iostream>
 
 using namespace std;
@@ -13,5 +14,4 @@ int main(){
     cout << "La resta es: " << a-b << endl;
     cout << "La multiplicacion es: " << a*b << endl;
     
-
 }
